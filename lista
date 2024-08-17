@@ -1,0 +1,15 @@
+ Random r:
+ r = new Random();
+ for (int i = 0; i <= 10; i++)
+ {
+      n = r.Next(98) + 2;
+     ac += n;
+     Console.WriteLine(n);
+ }
+ Console.WriteLine(ac);
+ Console.WriteLine((double)ac / 10);
+
+
+ for (int i = 1; i <= 10; i++;
+ {
+     Console.WriteLine(r.Next(2,99))
